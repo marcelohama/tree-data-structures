@@ -1,2 +1,2 @@
 # tree-data-structures
-Several algorithms for tree data structures (B-Tree, AVL-Tree, in-memory, and static).
+Several algorithms for tree data structures (B-Tree, AVL-Tree, in-memory, and static). Trees are very important data structures. With then, one can model hierarchy structures such as directory folders, inheritance relationships and optimized searches. The bellow download contains a very simple C/C++ implementation of a <a href="http://en.wikipedia.org/wiki/B-tree" target="blank">B-Tree</a> (RAM and Hard-Disc versions) and an <a href="http://en.wikipedia.org/wiki/AVL_tree" target="blank">AVL-Tree</a>.
